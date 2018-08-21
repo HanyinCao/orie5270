@@ -1,0 +1,7 @@
+The Summary of First Day’s Class
+Hanyin Cao (hc936)
+Today we covered several things. Firstly, we learned how to use Amazon Web Service (AWS). Through AWS website, we can run Linux instance provided by cloud severs. By this method, we can easily utilize remote hardware to do some complex and time-consuming computation. 
+
+Secondly, we covered the method of sharing codes and files. In this course, we use Github to do the sharing. After creating new branch, pushing new files to the branch and creating pull request, we can update the files in the master branch so that everyone can see the newest version of the codes.
+
+Thirdly, we learned how to define class using Python. 
