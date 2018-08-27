@@ -67,7 +67,7 @@ def get_distance_path(source, destination, result):
             path.append(result[path[-1]][2])
         path = path[::-1]
 
-        return distance, path
+        return (distance, path)
 
 
 def find_shortest_path(name_txt_file, source, destination):
@@ -79,8 +79,6 @@ def find_shortest_path(name_txt_file, source, destination):
 
 
 if __name__ == '__main__':
-    distance, path = find_shortest_path('graph_3.txt', '2', '0')
+    x = find_shortest_path('graph_3.txt', '2', '0')
 
-    print (distance)
-
-    print (path)
+    print (x)
