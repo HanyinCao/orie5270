@@ -81,4 +81,4 @@ def find_negative_cicles(name_txt_file):
 
 
 if __name__ == '__main__':
-    find_negative_cicles('graph_5.txt')
+    print (find_negative_cicles('graph_5.txt'))
